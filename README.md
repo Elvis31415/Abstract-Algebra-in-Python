@@ -5,7 +5,6 @@ My try to study abstract algebra using python.
 
 Program psudocode
 
-algorithm Sieve of Eratosthenes is
     input: an integer n > 1.
     output: all prime numbers from 2 through n.
 
